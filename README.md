@@ -14,10 +14,15 @@
 
 /UsersAPI
 │
+
 ├── /Controllers # API controllers
+
 ├── /Models # Data models
+
 ├── /Views # Views (if applicable)
+
 ├── /wwwroot # Static files
+
 └── appsettings.json # Application configuration
 
 #
